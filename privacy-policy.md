@@ -59,48 +59,30 @@ The Application does not address anyone under the age of 13. The Service Provide
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
 
-<strong>Third Party Access</strong>
-<p>Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in
-    improving the Application and their service. The Service Provider may share your information with third parties
-    in
-    the ways that are described in this privacy statement.</p>
-<div><br>
-    <p>Please note that the Application utilizes third-party services that have their own Privacy Policy about
-        handling
-        data. Below are the links to the Privacy Policy of the third-party service providers used by the
-        Application:</p>
-    <ul>
-        <li><a href="https://www.google.com/policies/privacy/" rel="noopener noreferrer" target="_blank">Google Play
-            Services</a></li>
-        <li><a href="https://support.google.com/admob/answer/6128543?hl=en" rel="noopener noreferrer"
-                target="_blank">AdMob</a>
-        </li>
-        <li><a href="https://firebase.google.com/support/privacy" rel="noopener noreferrer" target="_blank">Google
-            Analytics for Firebase</a></li>
-        <li><a href="https://firebase.google.com/support/privacy/" rel="noopener noreferrer" target="_blank">Firebase
-            Crashlytics</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-        <!---->
-        <li><a href="https://www.applovin.com/privacy/" rel="noopener noreferrer" target="_blank">AppLovin</a></li>
-        <li><a href="https://vungle.com/privacy/" rel="noopener noreferrer" target="_blank">Vungle</a></li><!---->
-        <li><a href="https://openai.com/policies/" rel="noopener noreferrer" target="_blank">OpenAI Policy</a></li>
-        <li><a href="https://advertising.inmobi.com/privacy-policy" rel="noopener noreferrer" target="_blank">InMobi</a></li>
-</ul>
+**Third Party Access**
 
-</div>
-<br>
-<p>The Service Provider may disclose User Provided and Automatically Collected Information:</p>
-<ul>
-    <li>as required by law, such as to comply with a subpoena, or similar legal process;</li>
-    <li>when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or
-        the
-        safety of others, investigate fraud, or respond to a government request;
-    </li>
-    <li>with their trusted services providers who work on their behalf, do not have an independent use of the
-        information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-    </li>
-</ul>
-<p></p>
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
+  
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [AppLovin](https://www.applovin.com/privacy/)
+*   [Vungle](https://vungle.com/privacy/)
+*   [OpenAI Policy](https://openai.com/policies/)
+*   [InMobi](https://advertising.inmobi.com/privacy-policy)
+
+  
+
+The Service Provider may disclose User Provided and Automatically Collected Information:
+
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
 
 
